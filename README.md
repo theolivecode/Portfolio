@@ -19,3 +19,4 @@ Welcome to my portfolio. Below are selected research projects, my resume, and ac
 ## Additional Materials
 - **Resume**: [View Resume](https://drive.google.com/file/d/1GlXJr8b1hWfUxmNrpFmxLwInBShfgowP/view?usp=sharing)
 - **UCSD Transcript**: [View Transcript](https://drive.google.com/file/d/1jmPbbDnFVuvYv2CHNmadWDCQQ4uHwvez/view?usp=sharing)
+- **LinkedIn**: [View LinkedIn](https://www.linkedin.com/in/ali-ellahib/)
