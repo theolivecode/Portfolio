@@ -1,7 +1,4 @@
 # Portfolio
-
-Welcome to my portfolio. Below are selected research projects, my resume, and academic transcript.
-
 ---
 
 ## Research Projects
