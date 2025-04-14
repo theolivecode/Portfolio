@@ -12,6 +12,10 @@
 ### Improving Mathematical Reasoning in Lightweight LLMs
 - **Paper**: [Mathematical Reasoning with GRPO and PRM](https://drive.google.com/file/d/1BNLwLUleU6exgDmBWiZvAfIavF-X-e9D/view?usp=sharing)
 
+### Data Science Project: Analyzing Student Performance
+- **Notebook PDF**: [View PDF](https://drive.google.com/file/d/1XlOTHJ1t49XycphykcJ0DYYXSgMbhgNX/view?usp=sharing)
+- **Repository**: [View Jupyter Notebook Repository](https://github.com/theolivecode/Student_Performance_Analysis/tree/main)
+ 
 ## Additional Materials
 - **Resume**: [View Resume](https://drive.google.com/file/d/1GlXJr8b1hWfUxmNrpFmxLwInBShfgowP/view?usp=sharing)
 - **UCSD Transcript**: [View Transcript](https://drive.google.com/file/d/1jmPbbDnFVuvYv2CHNmadWDCQQ4uHwvez/view?usp=sharing)
