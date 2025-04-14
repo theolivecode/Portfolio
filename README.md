@@ -15,6 +15,9 @@
 ### Data Science Project: Analyzing Student Performance
 - **Notebook PDF**: [View PDF](https://drive.google.com/file/d/1XlOTHJ1t49XycphykcJ0DYYXSgMbhgNX/view?usp=sharing)
 - **Repository**: [View Jupyter Notebook Repository](https://github.com/theolivecode/Student_Performance_Analysis/tree/main)
+
+### Fake News Detection with Multinomial Naive Bayes
+- **Repository**: [View Repository](https://github.com/KyleL1015/CSE150AMilestone2)
  
 ## Additional Materials
 - **Resume**: [View Resume](https://drive.google.com/file/d/1GlXJr8b1hWfUxmNrpFmxLwInBShfgowP/view?usp=sharing)
