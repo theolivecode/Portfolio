@@ -4,7 +4,12 @@
 
 ### Human-Robot Interaction Research with Boston Dynamics' Spot
 - **Paper**: [Human-Robot Interaction Research Paper](https://drive.google.com/file/d/1UmbrKv_NXaUHa3gQXzFt2arnuIBOxefN/view?usp=sharing)
-- **Repository**: [Spot Tic-Tac-Toe Research Repository](https://github.com/theolivecode/Spot-Tic-Tac-Toe-Research)
+  
+### Reconstructing 3d scene layouts from images in Unreal Engine (YOLO-12n, Apple DepthPro)
+- **Paper**: [Image2Scene](https://drive.google.com/file/d/1MMLQjwp3naxDhMaavVaC1QlG5XDWFiU0/view?usp=sharing)
+
+### MARL - MA-FastTD3
+- **Paper**: [MARL Algorithms for Robotic Applications](https://drive.google.com/file/d/16R5PdIQM3UBNAwfUkhYbaT771ibpYGjs/view?usp=sharing)
 
 ### Deep Q-Networks for Atari Game Generalization
 - **Paper**: [DQN Atari Research Paper](https://drive.google.com/file/d/13RY2JSnTtEzvIQZywAyTbB_IsAvzvdgi/view?usp=sharing)
