@@ -1,6 +1,6 @@
 # Portfolio
 ##  Professional Links
-- **Resume**: [View Resume](https://drive.google.com/file/d/1kLTVMEsKupKn1jykvwkr0329YG8hb6Jq/view?usp=sharing)
+- **Resume**: [View Resume](https://drive.google.com/file/d/1xyKIhIEx4ueZptKwCxuRs7azgrdKCn1X/view?usp=sharing)
 - **LinkedIn**: [View LinkedIn](https://www.linkedin.com/in/ali-ellahib/)
 
 ## Research Projects
