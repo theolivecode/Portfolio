@@ -1,5 +1,8 @@
 # Portfolio
-
+##  Professional Links
+- **Resume**: [View Resume](https://drive.google.com/file/d/1kLTVMEsKupKn1jykvwkr0329YG8hb6Jq/view?usp=sharing)
+- **LinkedIn**: [View LinkedIn](https://www.linkedin.com/in/ali-ellahib/)
+- 
 ## Research Projects
 
 ### Human-Robot Interaction Research with Boston Dynamics' Spot
@@ -23,8 +26,3 @@
 
 ### Fake News Detection with Multinomial Naive Bayes
 - **Repository**: [View Repository](https://github.com/KyleL1015/CSE150AMilestone2)
- 
-## Additional Materials
-- **Resume**: [View Resume](https://drive.google.com/file/d/1GlXJr8b1hWfUxmNrpFmxLwInBShfgowP/view?usp=sharing)
-- **UCSD Transcript**: [View Transcript](https://drive.google.com/file/d/1jmPbbDnFVuvYv2CHNmadWDCQQ4uHwvez/view?usp=sharing)
-- **LinkedIn**: [View LinkedIn](https://www.linkedin.com/in/ali-ellahib/)
