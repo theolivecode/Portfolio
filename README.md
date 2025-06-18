@@ -2,7 +2,7 @@
 ##  Professional Links
 - **Resume**: [View Resume](https://drive.google.com/file/d/1kLTVMEsKupKn1jykvwkr0329YG8hb6Jq/view?usp=sharing)
 - **LinkedIn**: [View LinkedIn](https://www.linkedin.com/in/ali-ellahib/)
-- 
+
 ## Research Projects
 
 ### Human-Robot Interaction Research with Boston Dynamics' Spot
