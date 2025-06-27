@@ -8,7 +8,7 @@
 ### Reconstructing 3d scene layouts from images in Unreal Engine (YOLO-12n, Apple DepthPro)
 - **Paper**: [Image2Scene](https://drive.google.com/file/d/1MMLQjwp3naxDhMaavVaC1QlG5XDWFiU0/view?usp=sharing)
 
-- ### Human-Robot Interaction Research with Boston Dynamics' Spot
+### Human-Robot Interaction Research with Boston Dynamics' Spot
 - **Paper**: [Human-Robot Interaction Research Paper](https://drive.google.com/file/d/1UmbrKv_NXaUHa3gQXzFt2arnuIBOxefN/view?usp=sharing)
 
 ### Improving Mathematical Reasoning in Lightweight LLMs
